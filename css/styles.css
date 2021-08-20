@@ -1,0 +1,38 @@
+body {
+  background-color: #DBE6FD;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: white;
+  border-width: 5px;
+  width: 5%;
+}
+h1{
+  color: #47597E;
+  font-family: Helvetica;
+}
+h3
+{
+  color: #47597E;
+  font-family: Lucida Handwriting;
+}
+p{
+  font-family: Lucida Handwriting;
+}
+ul{
+  font-family: Lucida Handwriting;
+}
+ol{
+  font-family: Lucida Handwriting;
+}
+tr{
+  font-family: Lucida Handwriting;
+}
+a{
+  font-family: Lucida Handwriting;
+}
+img{
+  border-radius: 30px;
+}
